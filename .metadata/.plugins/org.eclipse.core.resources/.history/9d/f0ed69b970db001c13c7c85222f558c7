@@ -1,0 +1,5 @@
+package com.blit.SpringBootJPARestCRUDAPIAssignment.exception;
+
+public class TutorialExceptionHandler {
+
+}

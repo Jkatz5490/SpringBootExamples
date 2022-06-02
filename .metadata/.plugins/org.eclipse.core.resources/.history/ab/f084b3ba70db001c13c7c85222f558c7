@@ -1,0 +1,10 @@
+package com.blit.SpringBootJPARestCRUDAPIAssignment.exception;
+
+
+public class TutorialNotFoundException extends Exception {
+
+	public TutorialNotFoundException(String string) {
+		super(string);
+	}
+
+}
